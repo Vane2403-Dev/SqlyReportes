@@ -1,0 +1,1 @@
+EXEC GenerarInsert_fromObject @ViewTableName = 'GRLMATRIZAUTORIZACION', @where = "OperTipo IN ( 300010, 320010) "
